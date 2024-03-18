@@ -6,11 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabin-sc1" alt="prabin-sc1" /></a> </p>
 
-- 🔭 I’m currently working on [BookRental](https://github.com/Prabin-sc1/BookRental)
 
 - 🌱 I’m currently learning **Spring boot**
-
-- 👯 I’m looking to collaborate on [BookRental](https://github.com/Prabin-sc1/book-rental)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prabin-sc1](https://github.com/Prabin-sc1)
 
